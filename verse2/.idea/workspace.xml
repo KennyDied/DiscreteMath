@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="036d1d9b-31a9-4fab-96fa-3ce3b05dd464" name="Default Changelist" comment="" />
+    <list default="true" id="036d1d9b-31a9-4fab-96fa-3ce3b05dd464" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorts_DM/META-INF/Sorts_DM.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorts_DM/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorts_DM/Search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorts_DM/Search/LineSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorts_DM/Sort/BinaryInsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sorts_DM/Sort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/danila/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Search/LineSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/BinaryInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/danila/Sort/BinaryInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/danila/Sort/InsertionSort.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iVaLqm75BLkprePzbUsQKr56Iq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,7 +70,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="com.danila.Main" />
       <module name="Sorts_DM" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,6 +106,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="459" y="198" key="#Inspections" timestamp="1601996989757">
