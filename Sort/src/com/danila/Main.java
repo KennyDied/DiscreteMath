@@ -11,13 +11,13 @@ public class Main {
         int[] reversedArray = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
         int[] randomArray = {7, 3, 8, 4, 0, 1, 5, 6, 2, 9};
 
-        System.out.println("----Сортировка Пузырьком----");
-        BubbleSort.sort(reversedArray);
-        System.out.println();
-
+//        System.out.println("----Сортировка Пузырьком----");
+//        BubbleSort.sort(reversedArray);
 //        System.out.println();
-//        System.out.println("----Сортировка Шелла----");
-//        ShellSort.sort(randomArray);
+
+        System.out.println();
+        System.out.println("----Сортировка Шелла----");
+        ShellSort.sort(reversedArray);
 
 
 //        System.out.println();
